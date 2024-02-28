@@ -81,17 +81,17 @@ Open [http://localhost:5000](http://localhost:5000) with your browser to see the
 ```bash
     http://localhost:5000/update/data-science
 ```
-    - go to body tab and select JSON tab.
-    - And paste the following :
+- go to body tab and select JSON tab.
+- And paste the following :
 
-    ```bash
+```bash
     {
         "title":"Data Science",
         "body":"This is Updated Data Science Note",
         "tag": "alpha"
     }
-    ```
-    -Click on the send button.
+```
+- Click on the send button.
 
 
 ## To Delete a new Note
