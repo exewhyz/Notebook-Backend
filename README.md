@@ -79,7 +79,7 @@ Open [http://localhost:5000](http://localhost:5000) with your browser to see the
 - select PUT method and enter your localhost url like:
 
 ```bash
-    http://localhost:5000/update/data-science
+    http://localhost:5000/update/Data-Science
 ```
 - go to body tab and select JSON tab.
 - And paste the following :
@@ -101,6 +101,6 @@ Open [http://localhost:5000](http://localhost:5000) with your browser to see the
 - select DELETE method and enter your localhost url like:
 
 ```bash
-    http://localhost:5000/delete/data-science
+    http://localhost:5000/delete/Data-Science
 ```
 - Click on the send button. //It will delete the note.
